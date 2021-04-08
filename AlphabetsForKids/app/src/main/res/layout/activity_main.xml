@@ -11,6 +11,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="Q"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonM"
         app:layout_constraintTop_toBottomOf="@+id/buttonM" />
 
@@ -19,6 +20,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="X"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonC"
         app:layout_constraintStart_toStartOf="@+id/buttonH"
         app:layout_constraintTop_toBottomOf="@+id/buttonT" />
@@ -28,6 +30,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="Y"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonU"
         app:layout_constraintTop_toBottomOf="@+id/buttonU" />
 
@@ -36,6 +39,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="W"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonB"
         app:layout_constraintStart_toStartOf="@+id/buttonG"
         app:layout_constraintTop_toBottomOf="@+id/buttonS" />
@@ -45,6 +49,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="U"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonQ"
         app:layout_constraintTop_toBottomOf="@+id/buttonQ" />
 
@@ -53,6 +58,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="T"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonC"
         app:layout_constraintStart_toStartOf="@+id/buttonD"
         app:layout_constraintTop_toBottomOf="@+id/buttonP" />
@@ -62,6 +68,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="S"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonB"
         app:layout_constraintStart_toStartOf="@+id/buttonC"
         app:layout_constraintTop_toBottomOf="@+id/buttonO" />
@@ -71,6 +78,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="Z"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonV"
         app:layout_constraintTop_toBottomOf="@+id/buttonV" />
 
@@ -79,6 +87,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="V"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
         app:layout_constraintStart_toStartOf="@+id/buttonR"
         app:layout_constraintTop_toBottomOf="@+id/buttonR" />
@@ -88,6 +97,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="R"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
         app:layout_constraintStart_toStartOf="@+id/buttonN"
         app:layout_constraintTop_toBottomOf="@+id/buttonN" />
@@ -97,6 +107,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="I"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonE"
         app:layout_constraintTop_toBottomOf="@+id/buttonE" />
 
@@ -105,6 +116,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="N"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
         app:layout_constraintStart_toStartOf="@+id/buttonJ"
         app:layout_constraintTop_toBottomOf="@+id/buttonJ" />
@@ -114,6 +126,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="M"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonI"
         app:layout_constraintTop_toBottomOf="@+id/buttonI" />
 
@@ -122,6 +135,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="L"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonC"
         app:layout_constraintStart_toStartOf="@+id/buttonH"
         app:layout_constraintTop_toBottomOf="@+id/buttonH" />
@@ -131,6 +145,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="K"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonB"
         app:layout_constraintStart_toStartOf="@+id/buttonG"
         app:layout_constraintTop_toBottomOf="@+id/buttonG" />
@@ -140,6 +155,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="J"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
         app:layout_constraintStart_toStartOf="@+id/buttonF"
         app:layout_constraintTop_toBottomOf="@+id/buttonF" />
@@ -149,6 +165,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="P"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonC"
         app:layout_constraintStart_toStartOf="@+id/buttonL"
         app:layout_constraintTop_toBottomOf="@+id/buttonL" />
@@ -158,6 +175,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="O"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonB"
         app:layout_constraintStart_toStartOf="@+id/buttonK"
         app:layout_constraintTop_toBottomOf="@+id/buttonK" />
@@ -167,6 +185,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="E"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toStartOf="@+id/buttonA"
         app:layout_constraintTop_toBottomOf="@+id/buttonA" />
 
@@ -175,6 +194,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="H"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonC"
         app:layout_constraintStart_toStartOf="@+id/buttonD"
         app:layout_constraintTop_toBottomOf="@+id/buttonD" />
@@ -184,6 +204,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="G"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonB"
         app:layout_constraintStart_toStartOf="@+id/buttonC"
         app:layout_constraintTop_toBottomOf="@+id/buttonC" />
@@ -193,6 +214,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="F"
+        android:onClick="ShowAlphabet"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
         app:layout_constraintStart_toStartOf="@+id/buttonB"
         app:layout_constraintTop_toBottomOf="@+id/buttonB" />
@@ -202,6 +224,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="A"
+        android:onClick="ShowAlphabet"
         app:layout_constraintEnd_toStartOf="@+id/buttonB"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -212,6 +235,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="B"
+        android:onClick="ShowAlphabet"
         app:layout_constraintEnd_toStartOf="@+id/buttonC"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
@@ -222,6 +246,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="D"
+        android:onClick="ShowAlphabet"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/buttonC"
@@ -232,6 +257,7 @@
         android:layout_width="90dp"
         android:layout_height="88dp"
         android:text="C"
+        android:onClick="ShowAlphabet"
         app:layout_constraintEnd_toStartOf="@+id/buttonD"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/buttonB"
