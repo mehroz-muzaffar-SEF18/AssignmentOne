@@ -2,9 +2,13 @@ package com.mypkg.alphabetsforkids;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.res.AssetFileDescriptor;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+
+import java.io.IOException;
 
 public class ShowAlphabet extends AppCompatActivity {
 
